@@ -52,7 +52,7 @@ runs:
               <li>Built at: ${BUILT_AT}</li>
               <li>Started by: ${GITHUB_EVENT_NAME}</li>
             </ul>
-            <p>Pipeit Weekend · GitHub Actions</p>
+            <p>Built with GitHub Actions</p>
           </div>
         </body>
         </html>
