@@ -1,5 +1,3 @@
-# pipeit-tutorial
-
 # PipeIt: Automated CI/CD Pipeline with GitHub Actions
 
 [![CI/CD Pipeline](https://github.com/rahimahisah17/pipeit-tutorial/actions/workflows/pipeline.yml/badge.svg)](https://github.com/rahimahisah17/pipeit-tutorial/actions/workflows/pipeline.yml)
